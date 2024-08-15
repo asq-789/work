@@ -1,0 +1,301 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\views\\item\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\views\\item\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\views\\admin\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\views\\admin\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|c:\\users\\dell\\desktop\\mnhoos\\2302b1tempembedding\\2302b1tempembedding\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C599E2F-DA63-4E02-9263-84CF60481B73}|2302b1TempEmbedding\\2302b1TempEmbedding.csproj|solutionrelative:2302b1tempembedding\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 41,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Models\\Item.cs",
+              "RelativeToolTip": "2302b1TempEmbedding\\Models\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:12:53.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Views\\Home\\Products.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "2302b1TempEmbedding\\Views\\Home\\Products.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAlwE8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-04T17:10:24.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "2302b1TempEmbedding\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwCQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T16:16:29.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "2302b1TempEmbedding\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T21:11:44.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Controllers\\ItemController.cs",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Controllers\\ItemController.cs",
+              "RelativeToolTip": "2302b1TempEmbedding\\Controllers\\ItemController.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T23:23:14.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Admin\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Views\\Admin\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Admin\\Privacy.cshtml",
+              "RelativeToolTip": "2302b1TempEmbedding\\Views\\Admin\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T21:11:44.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "2302b1TempEmbedding\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwB4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:11:44.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "2302b1TempEmbedding\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:13:12.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Models\\Category.cs",
+              "RelativeToolTip": "2302b1TempEmbedding\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T18:13:18.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "2302b1TempEmbedding\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T18:14:02.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Item\\Delete.cshtml",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Views\\Item\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Item\\Delete.cshtml",
+              "RelativeToolTip": "2302b1TempEmbedding\\Views\\Item\\Delete.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAgwCcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T23:45:13.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "2302b1TempEmbedding\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T21:11:44.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "2302b1TempEmbedding\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T21:11:44.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "2302b1TempEmbedding\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T21:11:44.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Item\\Create.cshtml",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Views\\Item\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Item\\Create.cshtml",
+              "RelativeToolTip": "2302b1TempEmbedding\\Views\\Item\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T21:11:44.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Models\\Product.cs",
+              "RelativeToolTip": "2302b1TempEmbedding\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T21:11:44.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "2302b1TempEmbedding\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\mnhoos\\2302b1TempEmbedding\\2302b1TempEmbedding\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "2302b1TempEmbedding\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T21:11:44.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
